@@ -31,3 +31,6 @@ This project investigates how pricing and stockout performance vary across brand
 - Matplotlib
 - Seaborn
 - Google Colab
+
+## Brand Strategy Matrix
+![Brand Strategy Matrix](images/brand_strategy_matrix.png)
