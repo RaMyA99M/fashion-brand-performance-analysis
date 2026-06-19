@@ -35,7 +35,7 @@ This analysis investigates how stockout performance and pricing vary across bran
 
 ## Dataset
 
-The dataset contains product-level information including:
+The dataset contains product-level information, including:
 
 - Brand
 - Product Category
@@ -88,24 +88,17 @@ Targeted inventory allocation could reduce stockout-related revenue leakage whil
 
 ## Repository Structure
 
-fashion-brand-performance-analysis/
-│
-├── README.md
-├── requirements.txt
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
+```
+.
 ├── notebooks/
 │   └── Fashion_Brand_Analysis.ipynb
-│
 ├── src/
-│   └── main.py
-│
-└── outputs/
-    └── brand_strategy_matrix.png
-
+│   └── analysis.py
+├── outputs/
+│   └── brand_strategy_matrix.png
+├── requirements.txt
+└── README.md
+```
 ---
 
 ## Business Impact
