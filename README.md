@@ -1,11 +1,20 @@
-# Fashion Retail Brand Performance Analysis
+# Fashion Retail Brand Performance Analysis: 
+Identifying Revenue Leakage Through Inventory and Pricing Analytics
 
 ## Project Overview
-
-This project analyzes fashion retail brand performance to identify inventory inefficiencies, revenue leakage, and pricing opportunities.
+This project analyzes the performance of fashion retail brands to identify inventory inefficiencies, revenue leakage, and pricing opportunities.
 
 Using stockout rates, average selling prices, and estimated lost revenue, brands are segmented into strategic categories to support inventory optimization and commercial decision-making.
 
+## Skills Demonstrated
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Validation
+- Business KPI Development
+- Revenue Impact Analysis
+- Inventory Analytics
+- Data Visualization
+- Business Recommendations
+- Python (Pandas, NumPy, Matplotlib)
 ---
 
 ## Business Problem
